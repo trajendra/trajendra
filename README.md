@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajendra tummala. you can call me @raj
+- 👋 Hi, I’m @rajendra tummala
 - 👀 I’m interested in Data Engineering and Business Intelligence Solution architecture
 - 🌱 I’m currently learning AWS Data Engineering and DevOps
 - 💞️ I’m looking to collaborate on Data management, ETL and Report design related topics
