@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajendra tummala
-- 👀 I’m interested in Data Engineering and Business Intelligence Solution architecture
+- 👀 I’m interested in AI, ML, Data Engineering and Business Intelligence Solution architecture
 - 🌱 I’m currently learning AWS Data Engineering and DevOps
-- 💞️ I’m looking to collaborate on Data management, ETL and Report design related topics
+- 💞️ I’m looking to collaborate on AI, Data and ML Projects.
 - 📫 you can reach me at my email for any help
 
 <!---
